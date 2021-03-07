@@ -1,0 +1,62 @@
+Devoir Fichiers d'enregistrements
+Comme déjà envoyé par Pr Hasbi
+
+
+Travail à rendre: 
+
+1. Un rapport avec toutes les fonctions en pseudo-code (algorithmique)
+
+2. Une copie d’écrans de la démonstration de l’exécution des différentes fonctions données ci-dessous
+
+
+Problème : Gestion d’une classe d’étudiants.
+
+Écrire un programme qui permet la gestion d'une classe d'étudiants en utilisant les fichiers. On suppose qu'un étudiant est caractérisé par :
+
+- Matricule : entier unique
+
+- nom & prénom : chaîne de caractères, 
+
+- date de naissance : date 
+
+- moyenne : réel.
+
+Ecrire les fonctions suivantes :
+
+1. Menu : qui affiche le menu
+
+2. Remplissage : lit et saisit les informations sur la liste des étudiants en entrée
+
+3. Affichage : affiche la liste des étudiants un par ligne
+
+4. Tri :  trie la liste des étudiants par ordre alphabétique et l'affiche
+
+5. Tri : trie la liste des étudiants par ordre de mérite et l'affiche
+
+6. Ajout : Insère un étudiant dans le fichier
+
+7. Modification : Met à jour la moyenne d'un étudiant étant donné son matricule
+
+8. Suppression : Supprime un étudiant du fichier étant donné son matricule
+
+9. Recherche : Recherche un étudiant étant donné son matricule
+
+Soit la déclaration :
+
+Typedef  struct {
+
+           int  J, M, A;
+
+} Date;
+
+Typedef  struct {
+
+                      int  mat ;
+
+                      char  NP[50] ;
+
+                      Date  DN ;
+
+                      float Moy 
+
+} Etudiant;
