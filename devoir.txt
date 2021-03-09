@@ -1,4 +1,3 @@
-Devoir Fichiers d'enregistrements
 Comme déjà envoyé par Pr Hasbi
 
 
@@ -6,7 +5,9 @@ Travail à rendre:
 
 1. Un rapport avec toutes les fonctions en pseudo-code (algorithmique)
 
-2. Une copie d’écrans de la démonstration de l’exécution des différentes fonctions données ci-dessous
+2. Votre programme main avec toutes les fonctions demandées 
+
+3. Une copie d’écrans de la démonstration de l’exécution des différentes fonctions données ci-dessous
 
 
 Problème : Gestion d’une classe d’étudiants.
